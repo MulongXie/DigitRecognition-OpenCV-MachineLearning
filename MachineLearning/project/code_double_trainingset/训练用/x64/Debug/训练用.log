@@ -1,0 +1,43 @@
+﻿  源.cpp
+f:\opencv3.2\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(33): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(36): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(78): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(79): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(90): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(91): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(102): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(103): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(114): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(115): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(123): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(285): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(289): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(279): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(279): note: 请考虑在格式字符串中使用“%zd”
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(330): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(331): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(334): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(353): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(355): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(361): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(363): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(412): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(414): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(419): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(421): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(425): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(326): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(326): note: 请考虑在格式字符串中使用“%zd”
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(351): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(351): note: 请考虑在格式字符串中使用“%zd”
+d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(351): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  d:\code\opencv\2015\训练用双训练集\训练用\源.cpp(351): note: 请考虑在格式字符串中使用“%zd”
+  训练用.vcxproj -> D:\code\opencv\2015\训练用双训练集\x64\Debug\训练用.exe
+  训练用.vcxproj -> D:\code\opencv\2015\训练用双训练集\x64\Debug\训练用.pdb (Full PDB)

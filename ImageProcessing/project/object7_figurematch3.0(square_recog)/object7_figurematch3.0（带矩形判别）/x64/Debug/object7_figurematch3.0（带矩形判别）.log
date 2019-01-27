@@ -1,0 +1,29 @@
+﻿  源.cpp
+f:\opencv3.2\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(28): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(31): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(32): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(75): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(76): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(87): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(88): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(99): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(100): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(111): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(112): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(119): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(228): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(244): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(246): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(248): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(258): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(259): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(261): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\object7_figurematch3.0（带矩形判别）\源.cpp(262): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  object7_figurematch3.0（带矩形判别）.vcxproj -> D:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\x64\Debug\object7_figurematch3.0（带矩形判别）.exe
+  object7_figurematch3.0（带矩形判别）.vcxproj -> D:\code\opencv\2015\object7_figurematch3.0（带矩形判别）\x64\Debug\object7_figurematch3.0（带矩形判别）.pdb (Full PDB)

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "object11_figurematch6.0（红黑字体外包轮廓剪枝）", "object11_figurematch6.0（红黑字体外包轮廓剪枝）\object11_figurematch6.0（红黑字体外包轮廓剪枝）.vcxproj", "{39B7753B-1AC6-4D96-83DC-8E6638687BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Debug|x64.ActiveCfg = Debug|x64
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Debug|x64.Build.0 = Debug|x64
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Debug|x86.ActiveCfg = Debug|Win32
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Debug|x86.Build.0 = Debug|Win32
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Release|x64.ActiveCfg = Release|x64
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Release|x64.Build.0 = Release|x64
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Release|x86.ActiveCfg = Release|Win32
+		{39B7753B-1AC6-4D96-83DC-8E6638687BAA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

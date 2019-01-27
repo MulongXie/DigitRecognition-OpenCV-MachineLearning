@@ -1,0 +1,43 @@
+﻿  源.cpp
+f:\opencv3.2\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(35): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(79): warning C4267: “/=”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(83): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(126): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(127): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(138): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(139): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(150): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(151): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(162): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(163): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(170): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(320): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(385): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(402): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(403): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(405): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(406): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(434): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(435): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(437): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(440): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(444): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(445): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(478): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(479): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(481): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(482): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(499): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(500): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(502): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(503): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(510): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object10_figurematch5.0（双训练集）\object10_figurematch5.0（双训练集）\源.cpp(518): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+  object10_figurematch5.0（双训练集）.vcxproj -> D:\code\opencv\2015\object10_figurematch5.0（双训练集）\x64\Debug\object10_figurematch5.0（双训练集）.exe
+  object10_figurematch5.0（双训练集）.vcxproj -> D:\code\opencv\2015\object10_figurematch5.0（双训练集）\x64\Debug\object10_figurematch5.0（双训练集）.pdb (Full PDB)

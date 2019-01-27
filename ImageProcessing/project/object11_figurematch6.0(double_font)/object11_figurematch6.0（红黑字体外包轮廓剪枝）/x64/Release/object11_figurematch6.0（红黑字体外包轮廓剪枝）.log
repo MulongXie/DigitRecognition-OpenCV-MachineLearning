@@ -1,0 +1,58 @@
+﻿  源.cpp
+F:\opencv3.2\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\opencv3.2\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\opencv3.2\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\opencv3.2\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\opencv3.2\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+源.cpp(37): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+源.cpp(85): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+源.cpp(120): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+源.cpp(173): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(174): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(185): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(186): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(197): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(198): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(209): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(210): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(217): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+源.cpp(423): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+源.cpp(434): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(435): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(437): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(438): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(468): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(469): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(471): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(474): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(478): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+源.cpp(479): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+源.cpp(502): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(503): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(505): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(506): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(523): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(524): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(526): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(527): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(534): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+源.cpp(597): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+源.cpp(622): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(623): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+源.cpp(625): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(628): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(632): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+源.cpp(633): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+源.cpp(653): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(654): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(656): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(657): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+源.cpp(691): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+源.cpp(699): warning C4244: “初始化”: 从“clock_t”转换到“float”，可能丢失数据
+  正在生成代码
+  17 of 968 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  object11_figurematch6.0（红黑字体外包轮廓剪枝）.vcxproj -> D:\code\opencv\2015\object11_figurematch6.0（红黑字体外包轮廓剪枝）\x64\Release\object11_figurematch6.0（红黑字体外包轮廓剪枝）.exe
+  object11_figurematch6.0（红黑字体外包轮廓剪枝）.vcxproj -> D:\code\opencv\2015\object11_figurematch6.0（红黑字体外包轮廓剪枝）\x64\Release\object11_figurematch6.0（红黑字体外包轮廓剪枝）.pdb (Full PDB)

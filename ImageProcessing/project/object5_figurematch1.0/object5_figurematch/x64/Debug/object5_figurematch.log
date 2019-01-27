@@ -1,0 +1,19 @@
+﻿  源.cpp
+f:\opencv3.2\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+f:\opencv3.2\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(26): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(30): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(128): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(130): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(134): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(143): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(144): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(146): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+d:\code\opencv\2015\object5_figurematch\object5_figurematch\源.cpp(147): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  object5_figurematch.vcxproj -> D:\code\opencv\2015\object5_figurematch\x64\Debug\object5_figurematch.exe
+  object5_figurematch.vcxproj -> D:\code\opencv\2015\object5_figurematch\x64\Debug\object5_figurematch.pdb (Full PDB)
